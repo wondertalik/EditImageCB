@@ -1,11 +1,8 @@
 <?php
 
-include("include/lib/FileManipulate.php");
-include("include/lib/FileManipulateFromCB.php");
-include("include/lib/FileManipulateFromLink.php");
-include("include/lib/SetBorderBottomTextOnFoto.php");
-include("include/lib/Settings.php");
-
+include("include/editImage/FileManipulateFromCB.php");
+include("include/editImage/FileManipulateFromLink.php");
+include("include/editImage/SetBorderBottomTextOnFoto.php");
 
 //ссылка на фото
 $url = "http://content.ideanomix.com/cooking/static/images/01-meat/ipad_retina/zharkoe_iz_svininy_v_gorshochke_step_1.jpg";

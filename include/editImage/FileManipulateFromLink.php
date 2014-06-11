@@ -1,5 +1,7 @@
 <?php
 
+include_once ("include/editImage/FileManipulate.php");
+
 /**
  * Class FileManipulateFromLink
  */

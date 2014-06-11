@@ -1,5 +1,6 @@
 <?php
 
+include_once("include/editImage/Settings.php");
 
 class SetBorderBottomTextOnFoto {
 
